@@ -779,3 +779,12 @@ javascript/hello-world/README.md
 javascript/hello-world/.exercism/metadata.json
 javascript/hello-world/node_modules/*
 javascript/hello-world/package-lock.json
+javascript/two-fer/.eslintrc
+javascript/two-fer/.npmrc
+javascript/two-fer/babel.config.js
+javascript/two-fer/package.json
+javascript/two-fer/README.md
+javascript/two-fer/two-fer.spec.js
+javascript/two-fer/.exercism/*
+javascript/two-fer/node_modules/*
+javascript/two-fer/package-lock.json
