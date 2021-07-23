@@ -797,3 +797,12 @@ javascript/resistor-color/package.json
 javascript/resistor-color/README.md
 javascript/resistor-color/resistor-color.spec.js
 javascript/resistor-color/.exercism/metadata.json
+javascript/resistor-color-duo/.exercism/*
+javascript/resistor-color-duo/node_modules/*
+javascript/resistor-color-duo/.eslintrc
+javascript/resistor-color-duo/.npmrc
+javascript/resistor-color-duo/babel.config.js
+javascript/resistor-color-duo/package-lock.json
+javascript/resistor-color-duo/package.json
+javascript/resistor-color-duo/README.md
+javascript/resistor-color-duo/resistor-color-duo.spec.js
