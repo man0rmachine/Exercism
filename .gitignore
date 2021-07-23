@@ -770,3 +770,12 @@ csharp/high-scores/obj/Debug/netcoreapp3.0/HighScores.dll
 csharp/high-scores/obj/Debug/netcoreapp3.0/HighScores.genruntimeconfig.cache
 csharp/high-scores/obj/Debug/netcoreapp3.0/HighScores.pdb
 csharp/high-scores/.editorconfig
+javascript/hello-world/.eslintrc
+javascript/hello-world/.npmrc
+javascript/hello-world/babel.config.js
+javascript/hello-world/hello-world.spec.js
+javascript/hello-world/package.json
+javascript/hello-world/README.md
+javascript/hello-world/.exercism/metadata.json
+javascript/hello-world/node_modules/*
+javascript/hello-world/package-lock.json
