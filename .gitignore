@@ -788,3 +788,12 @@ javascript/two-fer/two-fer.spec.js
 javascript/two-fer/.exercism/*
 javascript/two-fer/node_modules/*
 javascript/two-fer/package-lock.json
+javascript/resistor-color/node_modules/*
+javascript/resistor-color/package-lock.json
+javascript/resistor-color/.eslintrc
+javascript/resistor-color/.npmrc
+javascript/resistor-color/babel.config.js
+javascript/resistor-color/package.json
+javascript/resistor-color/README.md
+javascript/resistor-color/resistor-color.spec.js
+javascript/resistor-color/.exercism/metadata.json
