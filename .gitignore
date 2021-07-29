@@ -1026,3 +1026,12 @@ csharp/nucleotide-count/.editorconfig
 csharp/nucleotide-count/NucleotideCount.csproj
 csharp/nucleotide-count/NucleotideCountTests.cs
 csharp/nucleotide-count/README.md
+javascript/gigasecond/.eslintrc
+javascript/gigasecond/.npmrc
+javascript/gigasecond/babel.config.js
+javascript/gigasecond/gigasecond.spec.js
+javascript/gigasecond/README.md
+javascript/gigasecond/package.json
+javascript/gigasecond/.exercism/*
+javascript/gigasecond/node_modules/*
+javascript/gigasecond/package-lock.json
