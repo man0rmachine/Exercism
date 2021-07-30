@@ -1035,3 +1035,12 @@ javascript/gigasecond/package.json
 javascript/gigasecond/.exercism/*
 javascript/gigasecond/node_modules/*
 javascript/gigasecond/package-lock.json
+javascript/rna-transcription/.eslintrc
+javascript/rna-transcription/.npmrc
+javascript/rna-transcription/babel.config.js
+javascript/rna-transcription/package.json
+javascript/rna-transcription/README.md
+javascript/rna-transcription/rna-transcription.spec.js
+javascript/rna-transcription/.exercism/*
+javascript/rna-transcription/node_modules/*
+javascript/rna-transcription/package-lock.json
