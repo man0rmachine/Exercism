@@ -1044,3 +1044,12 @@ javascript/rna-transcription/rna-transcription.spec.js
 javascript/rna-transcription/.exercism/*
 javascript/rna-transcription/node_modules/*
 javascript/rna-transcription/package-lock.json
+javascript/space-age/node_modules/*
+javascript/space-age/.exercism/*
+javascript/space-age/.eslintrc
+javascript/space-age/.npmrc
+javascript/space-age/babel.config.js
+javascript/space-age/package.json
+javascript/space-age/README.md
+javascript/space-age/space-age.spec.js
+javascript/space-age/package-lock.json
